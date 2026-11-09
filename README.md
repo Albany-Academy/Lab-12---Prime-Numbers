@@ -1,4 +1,4 @@
-# Lab-13 - Prime-Numbers
+# Lab-12 - Prime-Numbers
 
 In this lab, you will be determining how many factors a provided whole number has, whether the given value is PRIME or COMPOSITE, and displays the number of primes from 2 to the given number.
 
