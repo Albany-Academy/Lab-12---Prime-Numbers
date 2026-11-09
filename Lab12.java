@@ -1,4 +1,4 @@
-public class Lab13{
+public class Lab12{
 //put your three static methods here - don't forget documentation
 
 
